@@ -1,1 +1,1 @@
-# ten-simple-rules-code-archiving
+# Ten simple rules for better code archiving paper
